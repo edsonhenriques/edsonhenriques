@@ -1,6 +1,6 @@
 # Olá, sou Edson Henrique
 
-Meus interesses atuais estão voltado para o mercado financeiro, então aqui você vai encontrar informações sobre:
+Aqui você encontrará estudos e informações sobre mercado financeiro:
 
 - Python para o mercado financeiro;
 - Fontes de dados do mercado financeiro;
