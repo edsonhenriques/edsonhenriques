@@ -1,8 +1,8 @@
 ## Olá!👋Bem vindo ao perfil sobre python para o mercado financeiro.
 
 <div>
-<a href = "mailto:contatoedsonhenriques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/edsonhenriques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:edsonhenriques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/edsonhenriquesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 Neste repositório você encontrará informações material de alguns bootcamps ligado a área financeiro e como coletar informações sobre o mercado financeiro, como realizar uma análise de séries temporais, análise preditiva com machine learning entre outras coletâneas e informações montar sua coleção de dados financeiros.
 
