@@ -1,4 +1,4 @@
-# Olá, sou Edson Henrique
+### Olá! Sou Edson Henrique! 
 
 Aqui você encontrará estudos e informações sobre mercado financeiro:
 
