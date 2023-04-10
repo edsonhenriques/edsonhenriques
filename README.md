@@ -113,9 +113,7 @@ Documentação python: https://pypi.org/project/yfinance/
 
 ## Sites Fundamentalista para Web Scraping
 
-Fundamentus: https://fundamentus.com.br/
-\
-Oceans14: https://www.oceans14.com.br/
-\
-Fundamentei: https://fundamentei.com/
+- Fundamentus: https://fundamentus.com.br/
+- Oceans14: https://www.oceans14.com.br/
+- Fundamentei: https://fundamentei.com/
 
