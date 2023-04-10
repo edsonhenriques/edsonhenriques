@@ -1,23 +1,28 @@
 ## Olá!👋Bem vindo ao perfil sobre python para o mercado financeiro.
 
-- Fontes de dados do mercado financeiro;
- - Principais bibliotecas utilizadas:
-   - Yahoo finance - Colete dados de preços históricos e informações fundamentistas
-   - OpenBB SDK - Api open source que possibilita extrair informações de preço histórico de ações, dados fundamentalista, análise técnicas, indicadores global, taxas de juros e muito mais informações do mercado mundial
-   - API Banco Central 
-   - 
-- Machine Learning no mercado financeiro
-- Análise de séries temporais 
-- Backtesting 
-- Análise preditiva 
+<div>
+<a href = "mailto:contatoedsonhenriques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/edsonhenriques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+Neste repositório você encontrará informações material de alguns bootcamps ligado a área financeiro e como coletar informações sobre o mercado financeiro, como realizar uma análise de séries temporais, análise preditiva com machine learning entre outras coletâneas e informações montar sua coleção de dados financeiros.
 
-### Rede Social.
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonhenriques)
+## Bibliotecas Python:
+- Principais bibliotecas python
 
-#### Fontes de Dados Financeiros
+#### Yahoo Finance:
+\- Info: https://pypi.org/project/yfinance/
 
+#### Alpha Vantage
+\- Info: https://pypi.org/project/alpha-vantage/
 
-### METADADOS
+#### OpenBB SDK
+\- Info: https://pypi.org/project/openbb-nightly/
+
+\- info: https://docs.openbb.co/sdk
+
+- Fontes de dados para coletar dados financeiro
+
+#### Metadados Financeiro
 
 ipeadata: http://ipeadata.gov.br/
 \
@@ -95,21 +100,6 @@ TR Mês (JSON) [Bacen]: https://api.bcb.gov.br/dados/serie/bcdata.sgs.226/dados?
 Índices de Segmentos e Setoriais (HTML) [B3]: https://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-de-segmentos-e-setoriais/
 
 
-### AÇÕES/FIIs
-
-#### Yahoo Finance
-\- Info: https://rapidapi.com/apidojo/api/yahoo-finance1
-\
-\- https://query1.finance.yahoo.com/v8/finance/chart/BOVA11.SA?interval=1h&period1=1577847600&period2=1609469999&events=div,splits&includePrePost=true
-\
-\- interval = 1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 1d, 5d, 1wk, 1mo, 3mo
-\
-\- period1/period2 = min/max Unix Time
-
-#### Alpha Vantage
-\- Info: https://rapidapi.com/alphavantage/api/alpha-vantage
-\
-\- https://www.alphavantage.co/query?apikey={API_KEY}&function=TIME_SERIES_DAILY_ADJUSTED&symbol=BOVA11.SA&datatype=json&outputsize=full
 
 #### brapi
 \- Info: https://brapi.ga/docs
