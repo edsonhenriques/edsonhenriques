@@ -5,13 +5,13 @@
 <a href="https://www.linkedin.com/in/edsonhenriquesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </div>
-Neste repositório você encontrará informações material de alguns bootcamps ligado a área financeiro e como coletar informações sobre o mercado financeiro, como realizar uma análise de séries temporais, análise preditiva com machine learning entre outras coletâneas e informações montar sua coleção de dados financeiros.
+Neste repositório você encontrará informações material ligados a área financeiro e como coletar informações sobre o mercado financeiro, como realizar uma análise de séries temporais, análise preditiva com machine learning entre outras coletâneas e informações montar sua coleção de dados financeiros.
 
 
 ## Bibliotecas Ações/FII:
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 \
-**Yahoo Finance:** - Uma das principais bibliotes para obter dados do mercado financeiro de ações. Séries históricos de preços (OLHCV), dados intradiários períodos de (1m, 5m, 60m, 1d, etc), além de obter algumas informações fundamentalistas.
+**Yahoo Finance:** - Uma das principais bibliotecas para obter dados do mercado financeiro de ações. Séries históricos de preços (OLHCV), dados intradiários períodos de (1m, 5m, 60m, 1d, etc), além de obter algumas informações fundamentalistas.
 \
 Documentação python: https://pypi.org/project/yfinance/
 \
