@@ -1,4 +1,4 @@
-## Olá!👋Bem vindo ao perfil sobre python para o mercado financeiro.
+## Olá!👋Bem vindo ao meu perfil.
 
 <div>
 <a href = "mailto:edsonhenriques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
