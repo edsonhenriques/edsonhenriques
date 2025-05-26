@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/edsonhenriquesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </div>
-Neste repositório você encontrará informações material ligados a área financeiro e como coletar informações sobre o mercado financeiro, como realizar uma análise de séries temporais, análise preditiva com machine learning entre outras coletâneas e informações montar sua coleção de dados financeiros.
+Neste repositório você encontrará informações gerais sobre arquitetura de soluções e arquitetura de dados, Governança de Dados. Alguns exemplos de experimentos nas areas de ciências de dados aplicado ao mercado financeiro. Casos como coletar informações sobre o mercado financeiro, como realizar uma análise de séries temporais, análise preditiva com machine learning entre outras coletâneas e informações montar sua coleção de dados financeiros.
 
 
 ## Bibliotecas Ações/FII:
