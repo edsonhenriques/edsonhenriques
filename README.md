@@ -5,7 +5,12 @@
 <a href="https://www.linkedin.com/in/edsonhenriquesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </div>
-Neste repositório você encontrará informações gerais sobre arquitetura de soluções e arquitetura de dados, Governança de Dados. Alguns exemplos de experimentos nas areas de ciências de dados aplicado ao mercado financeiro. Casos como coletar informações sobre o mercado financeiro, como realizar uma análise de séries temporais, análise preditiva com machine learning entre outras coletâneas e informações montar sua coleção de dados financeiros.
+
+## Quem sou:
+Profissional com mais 20 anos de experiência em TI, que acredita no trabalho colaborativo pois ninguém trabalha ou conquita algo sozinho. Minha trajetória profissional é marcada por vivência nas áreas de infraestrutura, projetos, arquitetura coporativa e arquitetura de dados. Esta experigência ajuda no desenvolvimento de soluções que visam potencializar os negócios da empresa. Com um conhecimento sólido em projetar soluções e na condução de projetos venho contribuindo significativamente para a modernização de sistemas empresariais que transformam o modelo operacional e a experiência do usuário. Espero aprender muito mais e contribuir com um pouco da minha experiência.
+
+## Neste repositório:
+Neste repositório você encontrará informações gerais sobre arquitetura de soluções, arquitetura de dados e governança de dados. Alguns exemplos de experimentos nas areas de ciências de dados aplicado ao mercado financeiro. Casos como coletar informações sobre o mercado financeiro, como realizar uma análise de séries temporais, análise preditiva com machine learning entre outras coletâneas e informações montar sua coleção de dados financeiros.
 
 
 ## Bibliotecas Ações/FII:
