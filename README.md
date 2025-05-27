@@ -16,18 +16,18 @@ Neste repositório você encontrará informações gerais sobre arquitetura de s
 ## Bibliotecas Ações/FII:
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 \
-**Yahoo Finance:** - Uma das principais bibliotecas para obter dados do mercado financeiro de ações. Séries históricos de preços (OLHCV), dados intradiários períodos de (1m, 5m, 60m, 1d, etc), além de obter algumas informações fundamentalistas.
+**Yahoo Finance:** Uma das principais bibliotecas para obter dados do mercado financeiro de ações. Séries históricos de preços (OLHCV), dados intradiários períodos de (1m, 5m, 60m, 1d, etc), além de obter algumas informações fundamentalistas.
 \
 Documentação python: https://pypi.org/project/yfinance/
 \
 
-**Alpha Vantage:** - API para coleta de dados de ações, com séries histórica, intraday e outras informações. Versão grátis limitado e licenciado. 
+**Alpha Vantage:** API para coleta de dados de ações, com séries histórica, intraday e outras informações. Versão grátis limitado e licenciado. 
 \
 - Documentação python: https://pypi.org/project/alpha-vantage/
 - Documentação alphavantage: https://www.alphavantage.co/documentation/
 \
 
-**OpenBB SDK:** - Para mim é a mais completa biblioteca open source para acesso e análise de dados do mercado financeiro. Não se trata apenas de uma biblioteca de acesso a dados financeiros, é uma plataforma de código aberto que permite pesquisar, consultar e analisar informações sobre o mercado financeiro. Contem informações globais de todos os mercado, é claro que não possui todas as informações possíveis, mas é possível obter dados de taxas de juros de vários países, inflação, PIB, criptomoedas, mercado de ações, ETFs, setorial, análise fundamentlista, análise técnica integrada, etc.
+**OpenBB SDK:** Para mim é a mais completa biblioteca open source para acesso e análise de dados do mercado financeiro. Não se trata apenas de uma biblioteca de acesso a dados financeiros, é uma plataforma de código aberto que permite pesquisar, consultar e analisar informações sobre o mercado financeiro. Contem informações globais de todos os mercado, é claro que não possui todas as informações possíveis, mas é possível obter dados de taxas de juros de vários países, inflação, PIB, criptomoedas, mercado de ações, ETFs, setorial, análise fundamentlista, análise técnica integrada, etc.
 
 - Documentação python: https://pypi.org/project/openbb-nightly/
 - Documentação do projeto: https://docs.openbb.co/sdk
