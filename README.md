@@ -7,7 +7,7 @@
 </div>
 
 ## Quem sou:
-Profissional com mais 30 anos de experiência em TI, atuando em diversas áreas como desenvolvimento, DBA, projetos, arquitetura coporativa e atualmente como arquitetura de dados. Conhecimento é o nosso maior tesouro e estou sempre procurando aprender algo novo e espero continuar apredendo e a contribuir com um pouco da minha experiência. 
+Profissional com mais 30 anos de experiência em TI, atuando em diversas áreas como desenvolvimento, DBA, projetos, arquitetura coporativa e atualmente como arquitetura de dados. O conhecimento é o nosso ativo mais precioso, por isso estou sempre procurando aprender algo novo e contribuir com um pouco da minha experiência. 
 
 ## Neste repositório:
 Neste repositório você encontrará informações gerais sobre arquitetura de soluções, arquitetura de dados, governança de dados, tecnologias etc. Você encontrará a seguir exemplos de projetos de arquitetura de soluções e arquitetura de dados, bem como alguns experimentos sobre ciência de dados, como coletar informações sobre o mercado financeiro, realizar uma análise de séries temporais e análise preditiva com machine learning entre outras coletâneas para você estudar e montar sua coleção de dados financeiros.
